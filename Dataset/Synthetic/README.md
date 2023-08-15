@@ -2,9 +2,9 @@
 ## Evaluation Parameters
 In our experiments, we optimize the objective functions for:
 
-- $f\_evals = 100$ function evaluations
+- $f\_{evals} = 100$ function evaluations
 
-- $r\_init = 5$ initial random samples after which the acquisition sampling begins
+- $r\_{init} = 5$ initial random samples after which the acquisition sampling begins
 
 - $D = 2000, \mathbf{R}^N$ is the high-dimensional space
 
