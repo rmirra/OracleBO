@@ -21,7 +21,7 @@ In our experiments, we optimize the objective functions for:
 
 - In the Dimension Matched Sampler (DMS), we use variance $\sigma = 1$
 
-- Rand $ = [0,1]$ are for Top $Q_d$ queries and Random $Q_d$ queries respectively
+- Rand $= [0,1]$ are for Top $Q_d$ queries and Random $Q_d$ queries respectively
 
 - For Branin, we use the minimizer $h^* = (pi,2.275)$ to generate $Q_d$ queries and for perception functions $P1,P2,P3$ we use the minimizer $h_i^*=0, i=1,2,\dots,N$. For Hartmann6 and Rosenbrock we use their unique minimizers.
 
